@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script&subset=cyrillic');
+
+body{
+	background-image: url('../fridge.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position-y: 20px;
+	font-family: 'Bad Script', serif;
+	  }
+#fridge{
+	padding-top: 70px;
+	padding-left: 70px;
+	width: 43%;
+	height: 700px;
+	margin: 20px auto;
+}
+div.sticker{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	cursor: -webkit-grab; 
+}
+
+div.sticker p{
+	padding: 5px;
+}
